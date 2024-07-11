@@ -5,5 +5,5 @@ public class App {
 
         Restuarant veggieResto = new VeggieBurgerRestuarant();
         veggieResto.orderBurger();
-    }
+    } 
 }
