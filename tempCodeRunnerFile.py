@@ -1,0 +1,2 @@
+machine.selectProduct()
+# machine.dispenseProduct()
